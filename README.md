@@ -1,2 +1,1 @@
-# image-classification
-image classification using fast.ai
+# image caption generator
